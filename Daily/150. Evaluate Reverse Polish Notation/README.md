@@ -13,10 +13,10 @@ Note that:
 - The input represents a valid arithmetic expression in a reverse polish notation.
 - The answer and all the intermediate calculations can be represented in a 32-bit integer.
 
+![image](https://github.com/Kenny890806/LeetCode_Note/blob/main/Daily/150.%20Evaluate%20Reverse%20Polish%20Notation/InputExample.png)
 
-:::
 #### 解題思路
-:::success
+
 看到題目時，我就想到了**stack解法**(也確實是這個解法)
 
 不過我在一開始使用了宣告ans當作中提計算結果儲存的變數<font color="#f00">**！！這個方法會有錯！！**</font><br>
@@ -27,5 +27,4 @@ Note that:
     
 **正確解法** : <font color="#3353FF">**直接將計算結果push回stack內**</font>
 
-
-:::
+![image](https://github.com/Kenny890806/LeetCode_Note/blob/main/Daily/150.%20Evaluate%20Reverse%20Polish%20Notation/solution.jpg)
