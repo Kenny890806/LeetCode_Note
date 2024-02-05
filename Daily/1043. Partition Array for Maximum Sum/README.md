@@ -13,7 +13,7 @@ Return the largest sum of the given array after partitioning. Test cases are gen
 
 #### 解題想法
 
-<img src="Solution.jpg" width="80%">
+<img src="Solution.jpg" width="60%">
 
 <font color="#f00">**！！目前程式碼時間消耗太久...！！**</font><br>
 
