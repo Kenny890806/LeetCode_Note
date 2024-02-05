@@ -13,7 +13,7 @@ Note that:
 - The input represents a valid arithmetic expression in a reverse polish notation.
 - The answer and all the intermediate calculations can be represented in a 32-bit integer.
 
-<img src="InputExample.png" width="30%">
+<img src="InputExample.png" width="50%">
 
 #### 解題思路
 
