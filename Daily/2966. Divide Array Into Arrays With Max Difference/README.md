@@ -42,4 +42,4 @@ Return a 2D array containing all the arrays. If it is impossible to satisfy the 
         }
 ```
 
-<img src="Result.png" width="80%">
+<img src="Result.png" width="60%">
