@@ -1,5 +1,5 @@
 #### 題目
-:::info
+
 You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
 
 Evaluate the expression. Return an integer that represents the value of the expression.
@@ -13,7 +13,7 @@ Note that:
 - The input represents a valid arithmetic expression in a reverse polish notation.
 - The answer and all the intermediate calculations can be represented in a 32-bit integer.
 
-![image](https://github.com/Kenny890806/LeetCode_Note/blob/main/Daily/150.%20Evaluate%20Reverse%20Polish%20Notation/InputExample.png)
+<img src="InputExample.png" width="30%">
 
 #### 解題思路
 
