@@ -25,3 +25,19 @@ Return a 2D array containing all the arrays. If it is impossible to satisfy the 
 - check+=3 **(題目有說 級距為3)**
 - 最後就是做簡單的check級距內是否有超過題目給定的k範圍
 
+```C++
+        vector<vector<int>> wrong;
+        vector<vector<int>> ans(element,vector<int>(3));
+        int check=0;//Point to the current position of nums(check+=3)
+        for(int i=0;i<element;i++){            
+            ans[i][0]=nums[check];           
+            if((nums[check]+k<nums[check+1])||(nums[check]+k<nums[check+2])){
+                return wrong;
+            }
+            else{
+                ans[i][1]=nums[check+1];
+                ans[i][2]=nums[check+2];
+            }
+            check+=3;
+        }
+```
