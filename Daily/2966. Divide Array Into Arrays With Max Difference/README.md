@@ -10,7 +10,7 @@ Divide the array into one or more arrays of size 3 satisfying the following cond
 - The difference between any two elements in one array is less than or equal to k.
                              
 Return a 2D array containing all the arrays. If it is impossible to satisfy the conditions, return an empty array. And if there are multiple answers, return any of them.
-![image]
+<img src="InputExample.png" width="50%">
 
 
 #### 解題思路
@@ -23,4 +23,4 @@ Return a 2D array containing all the arrays. If it is impossible to satisfy the 
 - 後續將nums中的資料一一傳進去ans[i][check]
 - check+=3 **(題目有說 級距為3)**
 - 最後就是做簡單的check級距內是否有超過題目給定的k範圍
-![image]
+
