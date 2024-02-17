@@ -27,4 +27,4 @@ Note that:
     
 **正確解法** : <font color="#3353FF">**直接將計算結果push回stack內**</font>
 
-![image](https://github.com/Kenny890806/LeetCode_Note/blob/main/Daily/150.%20Evaluate%20Reverse%20Polish%20Notation/solution.jpg)
+<img src="Solution.jpg" width="50%">
