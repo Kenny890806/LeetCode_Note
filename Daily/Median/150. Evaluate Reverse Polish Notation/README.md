@@ -27,4 +27,4 @@ Note that:
     
 **正確解法** : <font color="#3353FF">**直接將計算結果push回stack內**</font>
 
-<img src="Solution.jpg" width="50%">
+<img src="solution.jpg" width="50%">
